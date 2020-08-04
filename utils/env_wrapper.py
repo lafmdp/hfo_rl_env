@@ -1,5 +1,8 @@
 '''
   We wrapper "RoboCup 2D Half Field Offense" from "https://github.com/LARG/HFO" into gym-style env.
+  @python version : 3.6.4
+  @author : pangjc
+  @time : 2020/8/4
 '''
 
 import os
